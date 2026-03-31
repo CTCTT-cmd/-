@@ -1,0 +1,23 @@
+# Dataset extraction
+string_dataset_3_classes_cleaned/
+
+# Model checkpoints and logs
+best_model.pth
+training_log.csv
+*_predictions.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
